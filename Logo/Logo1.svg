@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="482.87635"
-     inkscape:cy="488.24515"
+     inkscape:cx="465.54946"
+     inkscape:cy="517.66484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,7 +89,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.298462;stroke-opacity:1;fill-opacity:0.37627116"
+       style="fill:#000000;fill-opacity:0.376271;fill-rule:evenodd;stroke:none;stroke-width:0.298462;stroke-opacity:1"
        id="rect837"
        width="45.550583"
        height="45.550583"
@@ -125,5 +125,29 @@
          x="38.753906"
          y="150.36083"><tspan
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0793592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">D</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.7976px;line-height:1.25;font-family:sans-serif;stroke-width:0.77991"
+       x="149.81227"
+       y="63.631817"
+       id="text868"
+       transform="matrix(0.70423678,0.50820616,-0.4543031,1.0921332,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan866"
+         x="149.81227"
+         y="63.631817"
+         style="stroke-width:0.77991">DI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.7976px;line-height:1.25;font-family:sans-serif;stroke-width:0.77991"
+       x="-100.05171"
+       y="178.923"
+       id="text864"
+       transform="matrix(-0.70423678,0.50820616,0.4543031,1.0921332,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan862"
+         x="-100.05171"
+         y="178.923"
+         style="stroke-width:0.77991">MO</tspan></text>
   </g>
 </svg>
