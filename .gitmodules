@@ -7,3 +7,6 @@
 [submodule "PCB/DiomKBS-Switches"]
 	path = PCB/DiomKBS-Switches
 	url = https://github.com/DiomKBS/DiomKBS-Switches
+[submodule "PCB/josh-kicad-lib"]
+	path = PCB/josh-kicad-lib
+	url = https://github.com/joshajohnson/josh-kicad-lib
