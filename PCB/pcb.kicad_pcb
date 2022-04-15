@@ -7800,7 +7800,7 @@
 
   (footprint "kailh-switches-hotswap:Kailh-Hotswap-EnterISO" (layer "F.Cu")
     (tedit 0) (tstamp 58f79080-a2db-443e-abd7-e29ff51f3e5e)
-    (at 29.53125 469.1475)
+    (at 379.4125 333.375)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006267ee3c")
