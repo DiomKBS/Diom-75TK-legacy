@@ -1961,7 +1961,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 131089b4-65ea-4c86-94c9-ec086a4ec252)
-    (at 305.1875 600.3825)
+    (at 235.7289 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/36326ec6-cdc8-4d10-8fe8-07e47ea9b6f1")
@@ -2190,7 +2190,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 17644982-8000-41b6-8888-779636f4adac)
-    (at 222.2475 458.9825)
+    (at 247.6344 147.6282)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/8a840e9b-72d2-4e8f-b5c6-dc5e4b066d6b")
@@ -3319,7 +3319,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 26956c2d-6c9d-4164-94cf-0f5e139203a1)
-    (at 384.8275 519.5825)
+    (at 197.6313 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/2956e836-1e25-4663-bc64-e75b7a40444b")
@@ -4255,7 +4255,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 33317ae2-97ee-42b7-b768-4ab5920c32e1)
-    (at 264.7875 620.5825)
+    (at 273.8265 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/075b3a6b-29ad-4a59-b795-5a44dd6bb733")
@@ -6003,7 +6003,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 4286b882-0f8c-4201-970b-c7d3432aa54f)
-    (at 224.3875 681.1825)
+    (at 178.5825 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/2f27c048-7077-480d-89ea-bf4f8514df29")
@@ -6246,7 +6246,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 45ca1f4a-173f-4489-88f4-cd794594e9bb)
-    (at 42.5875 578.5225)
+    (at 159.5337 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/51c5b1b2-bec9-4c21-a2f3-1d084ebceb1d")
@@ -6279,7 +6279,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 46d30163-ebe9-441d-bf1a-0c3449f742ea)
-    (at 282.8475 458.9825)
+    (at 203.1872 149.2156)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/e5505864-c3cd-485b-8eb1-1b61fe05e058")
@@ -6480,7 +6480,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 49098580-28ad-4cba-b994-9541a66e9854)
-    (at 182.8275 519.5825)
+    (at 140.4849 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/b536a92b-b16c-4011-ad80-64eb4e98c7eb")
@@ -7767,7 +7767,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 574fe8fe-3d5d-4ba7-b2ce-d9e8ad093adf)
-    (at 142.4275 500.0225)
+    (at 158.74 147.6282)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/66c76b7b-5a0c-4547-bd24-83b96424eab1")
@@ -11529,7 +11529,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 7efced88-730e-4828-bc67-b029d57f6ade)
-    (at 103.1875 601.6625)
+    (at 216.6801 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/becf22f5-1f65-4ecf-aa7a-957841198ae2")
@@ -13021,7 +13021,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 91de58ce-64b8-42e2-8774-6851df17e623)
-    (at 42.5875 618.9225)
+    (at 177.7888 148.4219)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/7ab11e36-d7de-483f-8f40-4dfe6c653ff7")
@@ -13427,7 +13427,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp 99be4aec-49cf-44e3-b0f4-412740505808)
-    (at 203.0275 519.5825)
+    (at 138.8975 147.6282)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/ce7fac58-6535-4cca-982d-359d80e9c618")
@@ -13906,7 +13906,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp a2a9ae22-424a-45b3-af5d-02e85ae9edd5)
-    (at 22.3875 639.1225)
+    (at 292.8753 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/7f272ba0-b0b1-4bbd-beec-8f151731c7bb")
@@ -15493,7 +15493,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp b141339d-8fdd-4b22-a5d1-18526869912a)
-    (at 122.2275 500.0225)
+    (at 254.7777 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/5ee787bd-caf3-4f1c-8017-003cb501468d")
@@ -17858,7 +17858,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp ce6b9e79-37a8-4c25-ba89-6b98fc2d25f6)
-    (at 103.1875 621.8625)
+    (at 225.4108 149.2156)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/d46d1c06-e957-41a5-8231-e945f0a4d930")
@@ -17991,7 +17991,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp d17ac63d-5534-43ae-a22f-015ee3ca12e9)
-    (at 203.0275 499.3825)
+    (at 311.9241 119.055)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/b8d02cf5-413d-47ed-ac4d-4ab0256a3f15")
@@ -18644,7 +18644,7 @@
 
   (footprint "led:SK6812MINI_3.5x3.7mm_SMD" (layer "F.Cu")
     (tedit 0) (tstamp da5b739a-6cbe-4773-87c2-c6871ebb1ad7)
-    (at 182.8275 499.3825)
+    (at 269.0643 148.4219)
     (property "Sheetfile" "pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/8f508672-957c-4de4-b68d-d959fdfeb809")
@@ -21335,5 +21335,12 @@
       )
     )
   )
+
+  (segment (start 295.2564 119.8487) (end 314.3052 119.8487) (width 0.25) (layer "F.Cu") (net 3) (tstamp 17dd155c-19d7-4af4-9901-4421868f4137))
+  (segment (start 314.3052 119.8487) (end 314.7241 120.2676) (width 0.25) (layer "F.Cu") (net 3) (tstamp 1ba1afca-ce14-4b96-879d-64087d23575d))
+  (segment (start 314.7241 120.2676) (end 314.7241 123.145) (width 0.25) (layer "F.Cu") (net 3) (tstamp 1e28b7b7-5e1c-439e-a016-7eece76b1273))
+  (segment (start 162.3337 122.6487) (end 162.3337 123.2831) (width 0.25) (layer "F.Cu") (net 3) (tstamp 212d5c5a-a01d-4c42-8241-848473158483))
+  (segment (start 295.6753 120.2676) (end 295.2564 119.8487) (width 0.25) (layer "F.Cu") (net 3) (tstamp 22ad7a99-9a87-47e0-8e27-e735855e28eb))
+  (segment (start 295.6753 123.145) (end 295.6753 120.2676) (width 0.25) (layer "F.Cu") (net 3) (tstamp 7616a626-9568-46d0-9ee3-f09e24908c07))
 
 )
