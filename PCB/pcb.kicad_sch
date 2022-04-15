@@ -5411,7 +5411,7 @@
     (uuid 00000000-0000-0000-0000-0000622923b1)
     (property "Reference" "FB1" (id 0) (at 81.28 38.4302 90))
     (property "Value" "600R" (id 1) (at 81.28 40.7416 90))
-    (property "Footprint" "" (id 2) (at 81.28 42.672 90)
+    (property "Footprint" "josh-passives-smt:Ferrite_Bead_0603" (id 2) (at 81.28 42.672 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 81.28 44.45 0)
@@ -7178,7 +7178,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 541.8582 58.4454 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "kailh-switches-hotswap:Kailh-Hotswap-2U" (id 2) (at 525.145 62.865 0)
+    (property "Footprint" "" (id 2) (at 525.145 62.865 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 525.145 62.865 0)
@@ -8527,7 +8527,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 574.8782 134.6454 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "kailh-switches-hotswap:Kailh-Hotswap-1U" (id 2) (at 558.165 139.065 0)
+    (property "Footprint" "" (id 2) (at 558.165 139.065 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 558.165 139.065 0)
@@ -15718,7 +15718,7 @@
       (reference "MX79") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
     )
     (path "/00000000-0000-0000-0000-00006266e6bf"
-      (reference "MX80") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-2U")
+      (reference "MX80") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
     )
     (path "/00000000-0000-0000-0000-00006267a4e1"
       (reference "MX81") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
@@ -15742,7 +15742,7 @@
       (reference "MX87") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
     )
     (path "/00000000-0000-0000-0000-00006268f908"
-      (reference "MX88") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
+      (reference "MX88") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-2U")
     )
     (path "/00000000-0000-0000-0000-00006266dd7b"
       (reference "MX89") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
