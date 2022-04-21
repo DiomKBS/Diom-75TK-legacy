@@ -5897,7 +5897,7 @@
     (uuid 00000000-0000-0000-0000-000062265bdd)
     (property "Reference" "SW1" (id 0) (at 142.24 32.131 0))
     (property "Value" "SW_Push" (id 1) (at 142.24 34.4424 0))
-    (property "Footprint" "random-keyboard-parts:SKQG-1155865" (id 2) (at 142.24 34.29 0)
+    (property "Footprint" "" (id 2) (at 142.24 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 142.24 34.29 0)
@@ -6426,7 +6426,7 @@
     (property "Value" "1.25V@150mA" (id 1) (at 275.59 95.25 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "led:D_SOD-123" (id 2) (at 280.67 106.68 90)
+    (property "Footprint" "" (id 2) (at 280.67 106.68 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 280.67 106.68 90)
@@ -15670,7 +15670,7 @@
       (reference "D20") (unit 1) (value "1.25V@150mA") (footprint "led:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00006236ed86"
-      (reference "D21") (unit 1) (value "1.25V@150mA") (footprint "led:D_SOD-123")
+      (reference "D21") (unit 1) (value "1.25V@150mA") (footprint "led:switch_without_switch")
     )
     (path "/00000000-0000-0000-0000-00006236ed93"
       (reference "D22") (unit 1) (value "1.25V@150mA") (footprint "led:D_SOD-123")
@@ -16549,7 +16549,7 @@
       (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-000062265bdd"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "led:switch_without_switch")
     )
     (path "/00000000-0000-0000-0000-00006223ede6"
       (reference "U1") (unit 1) (value "AT90USB1286-AU") (footprint "Package_QFP:TQFP-64_14x14mm_P0.8mm")
