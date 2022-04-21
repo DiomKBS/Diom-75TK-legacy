@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "led")(type "KiCad")(uri "${GITREPO}/Diom-75TK/PCB/DiomKBS-Switches/led.pretty")(options "")(descr ""))
+  (lib (name "kailh-switches-hotswap")(type "KiCad")(uri "${GITREPO}/Diom-75TK/PCB/DiomKBS-Switches/kailh-switches-hotswap.pretty")(options "")(descr ""))
+  (lib (name "josh-passives-smt")(type "KiCad")(uri "${GITREPO}/Diom-75TK/PCB/josh-kicad-lib/josh-passives-smt.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${GITREPO}/Diom-75TK/PCB/random-keyboard-parts.pretty")(options "")(descr ""))
+)

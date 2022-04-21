@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "d_small")(type "KiCad")(uri "${GITREPO}/Diom-75TK/PCB/DiomKBS-Switches/led.pretty/d_small.kicad_sym")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "${GITREPO}/Diom-75TK/PCB/DiomKBS-Switches/led.pretty/led.kicad_sym")(options "")(descr ""))
+)
