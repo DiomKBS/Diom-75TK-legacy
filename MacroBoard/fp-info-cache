@@ -1,4 +1,4 @@
-20233545149232525
+20235195913581234
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85798,6 +85798,13 @@ SK6812MINI_3.5x3.7mm_SMD-Flipped-Back
 0
 4
 4
+led
+led_capacitor
+
+
+0
+2
+2
 led
 switch_without_switch
 
