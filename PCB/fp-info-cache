@@ -1,4 +1,4 @@
-20398523936409562
+20401825352110196
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86471,6 +86471,13 @@ D_SOD-123
 2
 2
 led
+RotaryEncoder_EC11E-Switch
+
+
+0
+0
+0
+led
 SK6812MINI_3.5x3.7mm_SMD
 
 
@@ -86498,6 +86505,13 @@ SK6812MINI_3.5x3.7mm_SMD-Flipped-Back
 0
 4
 4
+led
+led_capacitor
+
+
+0
+2
+2
 led
 switch_without_switch
 
