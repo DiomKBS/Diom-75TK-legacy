@@ -1446,6 +1446,13 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
+  (global_label "RGBDIN" (shape input) (at 182.88 113.03 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 6a7ee599-33e3-4671-9fba-8f4effebb5ca)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 192.2194 112.9506 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "ROW1" (shape input) (at 182.88 69.85 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 72eec934-829a-4d39-9c88-91df23927ded)
@@ -4095,13 +4102,13 @@
       (reference "MX91") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1.25U")
     )
     (path "/f9b20734-b035-45c7-8e20-81df0eea752b/ab9a9193-8dcd-4cfc-a118-53936b727d37"
-      (reference "MX92") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-6U")
+      (reference "MX92") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-6U-6.25U-7U")
     )
     (path "/f9b20734-b035-45c7-8e20-81df0eea752b/db04a73e-6619-49d9-a154-84655c6f4676"
-      (reference "MX93") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1.25U")
+      (reference "MX93") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U-1.25U")
     )
     (path "/f9b20734-b035-45c7-8e20-81df0eea752b/75c11387-bc0f-40f0-8951-f94c4457e555"
-      (reference "MX94") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
+      (reference "MX94") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U-1.25U")
     )
     (path "/f9b20734-b035-45c7-8e20-81df0eea752b/ff6e1905-80a4-4263-8514-cf7caac70c4e"
       (reference "MX95") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
@@ -4120,18 +4127,6 @@
     )
     (path "/f9b20734-b035-45c7-8e20-81df0eea752b/8e9e27f3-e491-4bb2-b6e5-1b6d67ec9991"
       (reference "MX100") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
-    )
-    (path "/f9b20734-b035-45c7-8e20-81df0eea752b/34f10ac0-89cb-4b6b-ac1e-5409f21036e7"
-      (reference "MX101") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-6.25U")
-    )
-    (path "/f9b20734-b035-45c7-8e20-81df0eea752b/9ca33c62-bc39-4f9a-b37b-ffad624a01fd"
-      (reference "MX102") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-7U")
-    )
-    (path "/f9b20734-b035-45c7-8e20-81df0eea752b/7d69e415-5e08-4347-a588-2fb026511b18"
-      (reference "MX103") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1U")
-    )
-    (path "/f9b20734-b035-45c7-8e20-81df0eea752b/957a0c97-5ac2-4dc0-86dd-7b640381de7e"
-      (reference "MX104") (unit 1) (value "MX-NoLED") (footprint "kailh-switches-hotswap:Kailh-Hotswap-1.25U")
     )
     (path "/00000000-0000-0000-0000-00006226a5d7"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")

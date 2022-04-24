@@ -1,4 +1,4 @@
-20401825352110196
+20405135799631091
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86422,6 +86422,13 @@ Kailh-Hotswap-1U
 14
 2
 kailh-switches-hotswap
+Kailh-Hotswap-1U-1.25U
+
+
+0
+14
+2
+kailh-switches-hotswap
 Kailh-Hotswap-2U
 
 
@@ -86450,6 +86457,13 @@ Kailh-Hotswap-6U
 14
 2
 kailh-switches-hotswap
+Kailh-Hotswap-6U-6.25U-7U
+
+
+0
+25
+2
+kailh-switches-hotswap
 Kailh-Hotswap-7U
 
 
@@ -86475,8 +86489,8 @@ RotaryEncoder_EC11E-Switch
 
 
 0
-0
-0
+7
+6
 led
 SK6812MINI_3.5x3.7mm_SMD
 
