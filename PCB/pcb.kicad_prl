@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 31,
-    "active_layer_preset": "All Copper Layers",
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [
       "",
@@ -14,7 +14,7 @@
       "unconnected-(U1-Pad39)",
       "unconnected-(U1-Pad40)",
       "unconnected-(U1-Pad41)",
-      "unconnected-(U1-Pad42)",
+      "/LED/5V",
       "unconnected-(U1-Pad44)",
       "unconnected-(U1-Pad45)",
       "unconnected-(U1-Pad46)",
