@@ -1,4 +1,4 @@
-20162582119043352
+20162583564779292
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53031,6 +53031,13 @@ heatsink
 0
 2
 1
+Holes
+MountingHoleM2
+
+
+0
+0
+0
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -78623,6 +78630,20 @@ rotary encoder
 0
 5
 4
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOT95P275X110-5N
+TSOP-5 CASE 483-02 ISSUE K
+Integrated Circuit
+0
+5
+5
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85650,25 +85671,4 @@ Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
 0
 2
-2
-mx-switches-doubleSided
-CherryMX-1.5U-doubleSided
-
-
-0
-4
-2
-mx-switches-doubleSided
-CherryMX-1.5U-doubleSided-Vertical
-
-
-0
-4
-2
-mx-switches-doubleSided
-CherryMX-1U-doubleSided
-
-
-0
-4
 2
