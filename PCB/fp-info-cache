@@ -1,4 +1,4 @@
-20411830892099902
+20413517556552485
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86500,6 +86500,13 @@ Kailh-Hotswap-EnterISO
 2
 led
 D_SOD-123
+
+
+0
+2
+2
+led
+LED_SMD_3.5x2.8mm
 
 
 0
