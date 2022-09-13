@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "randomSymbols")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/randomSymbols.kicad_sym")(options "")(descr ""))
+)

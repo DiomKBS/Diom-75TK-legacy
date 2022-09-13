@@ -1,10 +1,11 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
       "",
+      "+5V",
       "unconnected-(U1-Pad33)",
       "unconnected-(U1-Pad34)",
       "unconnected-(U1-Pad38)",
@@ -27,7 +28,7 @@
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.18000000715255737
+      "zones": 0.44999998807907104
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
